@@ -1,6 +1,6 @@
 # endi-poker
 
-A server to provide poker operations for endi-casino to use. Made just because I did not feel like coding hold'em from scratch in Kotlin and I couldn't find a cool library for it.
+A server to provide poker operations for endi-casino to use. Made just because I did not feel like coding hold'em from scratch in Kotlin and I couldn't find a cool library for it. **This project uses the Bun runtime instead of Node.js.**
 
 > [!WARNING]  
 > Projekti ei ole "Open-Source" vaan sen lähdekoodi on julkinen läpinäkyvyys- ja luottamus-syistä. Katso tarkempi lisenssi **ennen** kun alat lukemaan koodia. [Lue lisenssi](https://github.com/endi-club/lumo-web/blob/main/LICENSE.md)
